@@ -6,7 +6,7 @@ output:
 Motor Trends : Automatic or Manual transmission for better mileage ?
 ========================================================
     
-**by P. Paquay**
+**by Jeevanandam**
     
 ## Executive summary
     
